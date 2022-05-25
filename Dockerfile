@@ -3,4 +3,4 @@ RUN apt update && apt upgrade -y && apt install ffmpeg git -y
 COPY . /app
 WORKDIR /app
 RUN npm install
-CMD bot.js start
+CMD node bot.js start
