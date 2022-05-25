@@ -19,9 +19,8 @@ sudo apt install npm
 npm install telegraf --save
 ```
 - 2. Repo'yu Klonlayın.
-```
-git clone https://github.com/sirincay/EtirafBot
-cd EtirafBot
+```https://github.com/Kenan20222/Etiraf
+git clone 
 ```
 - 3. Configdə Tokeni Ayarlayın.
 ```
