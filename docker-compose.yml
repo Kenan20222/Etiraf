@@ -1,1 +1,7 @@
-Kwkw
+version: "3.10"
+services:
+  yukki:
+    build: .
+    environment:
+      Token: $Token
+
