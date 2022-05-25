@@ -1,9 +1,9 @@
 <div align="center">
-  <h1> NodeJs ilə yazılmış sadə Etiraf Botu</h1>
+  <h1> NodeJs ile yazılan İtiraf Bot</h1>
    <b>Author: <a href="https://t.me/husnuehedov" target="_blank" >Hüsnü Ehedov 🇦🇿/🇹🇷</a></b>
 </div>
 <p align="center">
-    <b>Reponu Başqa Yerdə Paylaşmaq Qadağandır ❗️</b>
+    <b>Repo Azerbaycanındır.. Düzenleyen @Mahoagadır.❗️</b>
 </p>
 
 ----
