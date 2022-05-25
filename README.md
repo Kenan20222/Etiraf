@@ -3,7 +3,7 @@
    <b>Yaratıcı: <a href="https://t.me/Botdestekgrubu" target="_blank" >Hüsnü - Botdestekgrubu 🇦🇿/🇹🇷</a></b>
 </div>
 <p align="center">
-    <b>Repo Azerbaycanındır.. Düzenleyen @Mahoagadır.❗️</b>
+    <b>Repo Azerbaycanındır.. Düzenleyen @Mahoagadır. Okteto ile kurulumda çalışır duruma getirildi.❗️</b>
 </p>
 
 ----
