@@ -6,7 +6,7 @@
 
 module.exports = ({
 
-token: "TOKEN YAZ BURA GÖZƏL İNSAN",
+token: "5395714639:AAEVcE5YbhacspgYBnGZkwRkkrkG-WG_hjo",
 startmesaj: " <b><i>Salam. Bota etiraf etmək istədiyin mesajı yazırsan və kanalda paylaşılır.\n\nEtirafınızı yazdıxdan sonra Anonim(gizli) yoxsa Açıq paylaşım soruşacam ✅\n\nBuyur Bir Etiraf Et 💁🏼‍♀️</i></b>",
 aciqetirafeden: "📣 Açıq Etiraf \n👥İstifadəçi: ",
 aciqyazdigietiraf: "💄Yazdığı Etiraf: ",
