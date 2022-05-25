@@ -32,5 +32,5 @@ node bot.js
 ```     
 
 <h4>Okteto düğmesine tıklayın!</h4>
-<a href="https://cloud.okteto.com/deploy?repository=https://github.com/Alfa00006/Etiraf"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200""/></a>
+<a href="https://cloud.okteto.com/deploy?repository=https://github.com/Kenan20222/Etiraf"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200""/></a>
  
